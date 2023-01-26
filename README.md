@@ -1,7 +1,8 @@
 # CoilandRetrofitTraining
-rick and morty api used with retrofit. coil used for image loading.
 
-##Techs
+Rick and Morty api used with Retrofit. Coil used for image loading.
+
+## Techs
 
 - Retrofit
 - Coil
